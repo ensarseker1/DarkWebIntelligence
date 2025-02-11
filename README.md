@@ -99,3 +99,29 @@
 **5. SecureDrop**
 - **URL:** `http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion/`
 - **Why it’s important:** A tool for whistleblowers to share information securely.
+
+- --
+### **Ransomware Groups**
+
+Below are some of the known ransomware groups operating on the dark web. These groups maintain leak sites where they publish stolen data if victims refuse to pay ransom.
+
+#### **1. Omega**
+- **URL:** `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion/`
+- **Why it’s important:** Omega is a rising ransomware group that targets organizations and leaks stolen data if a ransom is not paid.
+
+#### **2. Akira**
+- **URL:** `https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/`
+- **Why it’s important:** Akira is known for targeting corporate networks and encrypting files, demanding ransom payments in cryptocurrency.
+
+#### **3. Rhysida**
+- **URL:** `http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/`
+- **Why it’s important:** Rhysida is a ransomware group that focuses on high-profile targets, often leaking stolen data as part of double extortion tactics.
+
+#### **4. Ragnar**
+- **URL:** `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/`
+- **Why it’s important:** The Ragnar ransomware group is known for sophisticated attacks on various industries, leveraging extortion techniques.
+
+#### **5. Cl0p**
+- **URL:** `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/`
+- **Why it’s important:** Cl0p ransomware has been involved in major breaches, including targeting file transfer software vulnerabilities to compromise corporate data.
+
